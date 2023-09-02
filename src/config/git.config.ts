@@ -3,7 +3,7 @@ import { FeatureConfig } from '../../typings';
 
 const config: FeatureConfig[] = [
   {
-    name: FeatureTypes.editor,
+    name: FeatureTypes.git,
     filename: '.gitignore',
     dependencies: [],
     scripts: [],
@@ -20,7 +20,7 @@ const config: FeatureConfig[] = [
     `,
   },
   {
-    name: '',
+    name: FeatureTypes.git,
     filename: '.gitattributes',
     dependencies: [],
     scripts: [],
