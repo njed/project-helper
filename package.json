@@ -1,8 +1,8 @@
 {
-  "name": "ts-example",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "name": "project-helper",
+  "version": "0.0.1",
+  "description": "Project helper",
+  "main": "lib/index.js",
   "scripts": {
     "prepare": "husky install",
     "dev": "ts-node-dev --respawn --transpile-only src/index.ts",

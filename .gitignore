@@ -4,8 +4,8 @@ test/unit/coverage
 .idea/
 .vscode/
 .vscode
-**/typings.json
-**/typings
+# **/typings.json
+# **/typings
 .eslintcache
 coverage/
 lib/
