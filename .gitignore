@@ -1,0 +1,12 @@
+.DS_Store
+node_modules/
+test/unit/coverage
+.idea/
+.vscode/
+.vscode
+**/typings.json
+**/typings
+.eslintcache
+coverage/
+lib/
+dist/
