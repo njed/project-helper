@@ -1,5 +1,5 @@
 {
-  "name": "project-helper",
+  "name": "@lark/project-helper",
   "version": "0.0.1",
   "description": "Project helper",
   "main": "lib/index.js",
